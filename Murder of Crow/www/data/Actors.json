@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$defaultCrow","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor4_temp","traits":[],"initialLevel":1,"maxLevel":99,"name":"Crowley","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$kiwiSheet","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"kiwihead_sheet","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kiwi Herman","nickname":"","note":"","profile":""}
+]
