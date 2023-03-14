@@ -1,6 +1,8 @@
 # Murder of Crows
 By Studio Skull Crush Critters
 
+Executive Producer: Marcus Der
+
 Producer & Writer: Tea Romanzin
 
 Lead Designer, Audio Artist: Cassia Lumby
@@ -20,7 +22,7 @@ Space or Enter to  interact <br>
 M to open the murder board, and escape to close <br>
 Escape to open menu <br>
 
-[beta web](Beta/index.html) 
+[beta web](Beta_v2/index.html) 
 
-[beta download](Beta.zip)
+[beta download](Beta_v2.zip)
 
