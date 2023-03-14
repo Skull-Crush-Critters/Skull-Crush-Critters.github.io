@@ -13,7 +13,14 @@ Programmer: Leah Sheptycki
 Programmer: Maggie Lacson  
 Programmer: Silin Song
 
-[tech demo web](tech_demo/index.html) 
+Controls:
 
-[tech demo download](tech_demo.zip)
+WASD or Arrow Keys to Move
+Space or Enter to  interact
+M to open the murder board, and escape to close
+Escape to open menu
+
+[tech demo web](Beta/index.html) 
+
+[tech demo download](Beta.zip)
 
