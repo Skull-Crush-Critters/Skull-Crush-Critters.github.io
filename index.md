@@ -15,12 +15,12 @@ Programmer: Silin Song
 
 Controls:
 
-WASD or Arrow Keys to Move
-Space or Enter to  interact
-M to open the murder board, and escape to close
-Escape to open menu
+WASD or Arrow Keys to Move <br>
+Space or Enter to  interact <br>
+M to open the murder board, and escape to close <br>
+Escape to open menu <br>
 
-[tech demo web](Beta/index.html) 
+[beta web](Beta/index.html) 
 
-[tech demo download](Beta.zip)
+[beta download](Beta.zip)
 
