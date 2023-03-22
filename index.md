@@ -17,7 +17,7 @@ M to open the murder board, and escape to close <br>
 Escape to open menu <br>
 
 Newest Version: Beta v4 <br>
-[beta_v3 web](Beta_v4/index.html) 
+[beta_v4 web](Beta_v4/index.html) 
 
 [beta_v4 download](Beta_v4.zip)
 
