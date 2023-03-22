@@ -22,7 +22,16 @@ Space or Enter to  interact <br>
 M to open the murder board, and escape to close <br>
 Escape to open menu <br>
 
+Newest Version: Beta v3
+
+[beta_v3 web](Beta_v3/index.html) 
+
+[beta_v3 download](Beta_v3.zip)
+
+___________________________________________________
+For TA marking only
+
 [beta web](Beta_v2/index.html) 
 
 [beta download](Beta_v2.zip)
-
+___________________________________________________
