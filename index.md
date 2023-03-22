@@ -2,32 +2,26 @@
 By Studio Skull Crush Critters
 
 Executive Producer: Marcus Der
-
 Producer & Writer: Tea Romanzin
-
-Lead Designer, Audio Artist: Cassia Lumby
-
+Lead Designer & Audio Artist: Cassia Lumby
 Artist: Maria Rusic
-
 Writer: Haley Skjersven
-
 Programmer: Leah Sheptycki  
 Programmer: Maggie Lacson  
 Programmer: Silin Song
 
 Controls:
-
 WASD or Arrow Keys to Move <br>
 Space or Enter to  interact <br>
 M to open the murder board, and escape to close <br>
 Escape to open menu <br>
 
-Newest Version: Beta v3 <br>
-[beta_v3 web](Beta_v3/index.html) 
+Newest Version: Beta v4 <br>
+[beta_v3 web](Beta_v4/index.html) 
 
-[beta_v3 download](Beta_v3.zip)
+[beta_v4 download](Beta_v4.zip)
 
-[Feedback Survey Link](https://forms.gle/t1tU2jVH7rrh4TmH7)
+[Feedback Survey Link](https://forms.gle/t1tU2jVH7rrh4TmH7)<br>
 ______________________________________________________________________________________________________________________ <br>
 For TA marking only
 
