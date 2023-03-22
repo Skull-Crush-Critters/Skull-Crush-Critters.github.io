@@ -1,16 +1,16 @@
 # Murder of Crows
 By Studio Skull Crush Critters
 
-Executive Producer: Marcus Der
-Producer & Writer: Tea Romanzin
-Lead Designer & Audio Artist: Cassia Lumby
-Artist: Maria Rusic
-Writer: Haley Skjersven
-Programmer: Leah Sheptycki  
-Programmer: Maggie Lacson  
-Programmer: Silin Song
+Executive Producer: Marcus Der <br>
+Producer & Writer: Tea Romanzin <br>
+Lead Designer & Audio Artist: Cassia Lumby <br>
+Artist: Maria Rusic <br>
+Writer: Haley Skjersven <br>
+Programmer: Leah Sheptycki <br>
+Programmer: Maggie Lacson <br> 
+Programmer: Silin Song <br>
 
-Controls:
+Controls: <br>
 WASD or Arrow Keys to Move <br>
 Space or Enter to  interact <br>
 M to open the murder board, and escape to close <br>
