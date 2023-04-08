@@ -13,7 +13,7 @@ Programmer: Silin Song <br>
 Controls: <br>
 WASD or Arrow Keys to Move <br>
 Space or Enter to  interact <br>
-M to open the murder board, and escape to close <br>
+M to toggle the murder board <br>
 Escape to open menu <br>
 
 Newest Version: Beta v8 <br>
