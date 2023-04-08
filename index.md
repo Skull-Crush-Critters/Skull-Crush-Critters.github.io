@@ -9,18 +9,17 @@ Audio Artist: Cassia Lumby <br>
 Writers: Tea Romanzin & Haley Skjersven <br>
 Programmers: Maggie Lacson, Leah Sheptycki, & Silin Song <br>
 
-Controls: <br>
+**Controls** <br>
 WASD or Arrow Keys to Move <br>
 Space or Enter to  interact <br>
 M to toggle the murder board <br>
 Escape to open menu <br>
 
-Newest Version: Beta v8 <br>
-[beta_v8 web](Beta_v8/index.html) 
+**Newest Version --** Beta v8 <br>
+[beta v8 web](Beta_v8/index.html) 
 
-[beta_v8 download](Beta_v8.zip)
+[beta v8 download](Beta_v8.zip)
 
-[Feedback Survey Link](https://forms.gle/oMmyLdE5KPADKDsz9)<br>
 ______________________________________________________________________________________________________________________ <br>
 For TA marking only
 
