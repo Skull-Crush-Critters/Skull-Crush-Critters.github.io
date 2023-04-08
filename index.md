@@ -2,13 +2,12 @@
 By Studio Skull Crush Critters
 
 Executive Producer: Marcus Der <br>
-Producer & Writer: Tea Romanzin <br>
-Lead Designer & Audio Artist: Cassia Lumby <br>
-Artist: Maria Rusic <br>
-Writer: Haley Skjersven <br>
-Programmer: Leah Sheptycki <br>
-Programmer: Maggie Lacson <br> 
-Programmer: Silin Song <br>
+Co-Producers: Tea Romanzin & Haley Skjersven <br>
+Lead Designer: Cassia Lumby <br>
+Visual Artist: Maria Rusic <br>
+Audio Artist: Cassia Lumby <br>
+Writers: Tea Romanzin & Haley Skjersven <br>
+Programmers: Maggie Lacson, Leah Sheptycki, & Silin Song <br>
 
 Controls: <br>
 WASD or Arrow Keys to Move <br>
