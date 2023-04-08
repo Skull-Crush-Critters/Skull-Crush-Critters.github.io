@@ -16,10 +16,10 @@ Space or Enter to  interact <br>
 M to open the murder board, and escape to close <br>
 Escape to open menu <br>
 
-Newest Version: Beta v7 <br>
-[beta_v7 web](Beta_v7/index.html) 
+Newest Version: Beta v8 <br>
+[beta v8 web](Beta v8/index.html) 
 
-[beta_v7 download](Beta_v7.zip)
+[beta v8 download](Beta v8.zip)
 
 [Feedback Survey Link](https://forms.gle/oMmyLdE5KPADKDsz9)<br>
 ______________________________________________________________________________________________________________________ <br>
