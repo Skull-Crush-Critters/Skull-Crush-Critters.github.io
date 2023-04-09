@@ -15,10 +15,10 @@ Space or Enter to  interact <br>
 M to toggle the murder board <br>
 Escape to open menu <br>
 
-**Newest Version --** Beta v8 <br>
-[beta_v8 web](Beta_v8/index.html) 
+**Newest Version --** Beta v9 <br>
+[beta_v9 web](Beta_v9/index.html) 
 
-[beta_v8 download](Beta_v8.zip)
+[beta_v9 download](Beta_v9.zip)
 
 ______________________________________________________________________________________________________________________ <br>
 For TA marking only
