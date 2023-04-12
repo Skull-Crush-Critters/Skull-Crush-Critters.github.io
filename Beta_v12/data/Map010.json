@@ -1,5 +1,5 @@
 {
-"autoplayBgm": true,
+"autoplayBgm": false,
 "autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
@@ -13562,13 +13562,6 @@ null,
 "tileId": 0
 },
 "list": [
-{
-"code": 242,
-"indent": 0,
-"parameters": [
-3
-]
-},
 {
 "code": 201,
 "indent": 0,

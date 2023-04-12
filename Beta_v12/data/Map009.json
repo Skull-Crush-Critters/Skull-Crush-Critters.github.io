@@ -583,6 +583,18 @@ null,
 ]
 },
 {
+"code": 241,
+"indent": 1,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
 "code": 0,
 "indent": 1,
 "parameters": []
@@ -678,6 +690,18 @@ null,
 15,
 8,
 0
+]
+},
+{
+"code": 241,
+"indent": 1,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
 ]
 },
 {

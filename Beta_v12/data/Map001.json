@@ -1,10 +1,10 @@
 {
-"autoplayBgm": true,
+"autoplayBgm": false,
 "autoplayBgs": false,
 "battleback1Name": "",
 "battleback2Name": "",
 "bgm": {
-"name": "townsquare",
+"name": "",
 "pan": 0,
 "pitch": 100,
 "volume": 90
@@ -3601,6 +3601,11 @@ null,
 "parameters": [
 "\\n<Crowley>Time to inspect the body..."
 ]
+},
+{
+"code": 243,
+"indent": 2,
+"parameters": []
 },
 {
 "code": 122,
@@ -8881,14 +8886,14 @@ null,
 "code": 401,
 "indent": 1,
 "parameters": [
-"a clean sneak. How were they never caught"
+"a clean sneak. How were they never"
 ]
 },
 {
 "code": 401,
 "indent": 1,
 "parameters": [
-"in their prior lays?"
+"caught in their prior lays?"
 ]
 },
 {
