@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$crowleyoverworld","classId":1,"equips":[1],"faceIndex":0,"faceName":"crowleyfaces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Crowley","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$kiwiSheet","classId":1,"equips":[2],"faceIndex":0,"faceName":"kiwihead_sheet","traits":[],"initialLevel":1,"maxLevel":1,"name":"Kiwi Herman","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"$jayvendor","classId":1,"equips":[0],"faceIndex":4,"faceName":"vendorfaces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Jay","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$honeybadgervendor","classId":1,"equips":[0],"faceIndex":1,"faceName":"vendorfaces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Honey Badger","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"$chinstrappenguin","classId":1,"equips":[0],"faceIndex":0,"faceName":"vendorfaces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Chinstrap Penguin","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"$twomicevendor","classId":1,"equips":[0],"faceIndex":3,"faceName":"vendorfaces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Two Mice","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"$sagittariusbird","classId":1,"equips":[0],"faceIndex":2,"faceName":"vendorfaces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Sagittarius Bird","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"$babyraccoon_overworld","classId":1,"equips":[0],"faceIndex":4,"faceName":"raccoon_faces","traits":[],"initialLevel":1,"maxLevel":1,"name":"Rascal","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"!$moleoverworldsitting","classId":1,"equips":[0],"faceIndex":0,"faceName":"molecloseuup","traits":[],"initialLevel":1,"maxLevel":1,"name":"The Mole","nickname":"","note":"","profile":""}
+]
