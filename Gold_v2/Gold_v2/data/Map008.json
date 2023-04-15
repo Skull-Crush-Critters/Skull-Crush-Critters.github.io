@@ -1,0 +1,486 @@
+{
+"autoplayBgm": false,
+"autoplayBgs": false,
+"battleback1Name": "",
+"battleback2Name": "",
+"bgm": {
+"name": "",
+"pan": 0,
+"pitch": 100,
+"volume": 90
+},
+"bgs": {
+"name": "",
+"pan": 0,
+"pitch": 100,
+"volume": 90
+},
+"disableDashing": false,
+"displayName": "",
+"encounterList": [],
+"encounterStep": 30,
+"height": 2,
+"note": "",
+"parallaxLoopX": false,
+"parallaxLoopY": false,
+"parallaxName": "",
+"parallaxShow": true,
+"parallaxSx": 0,
+"parallaxSy": 0,
+"scrollType": 0,
+"specifyBattleback": false,
+"tilesetId": 1,
+"width": 2,
+"data": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"events": [
+null,
+{
+"id": 1,
+"name": "EV001",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 221,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+1,
+1
+]
+},
+{
+"code": 242,
+"indent": 1,
+"parameters": [
+1
+]
+},
+{
+"code": 261,
+"indent": 1,
+"parameters": [
+"Cutscene1"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 221,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+1,
+14,
+11,
+8,
+0
+]
+},
+{
+"code": 211,
+"indent": 0,
+"parameters": [
+1
+]
+},
+{
+"code": 222,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 241,
+"indent": 0,
+"parameters": [
+{
+"name": "townsquare",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+1,
+1,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 3,
+"walkAnime": true
+}
+],
+"x": 1,
+"y": 1
+},
+{
+"id": 2,
+"name": "Lightmap",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+100
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+100,
+"",
+0,
+0,
+0,
+0,
+100,
+100,
+255,
+0
+]
+},
+{
+"code": 356,
+"indent": 0,
+"parameters": [
+"BindPictureToMap 100 above_characters"
+]
+},
+{
+"code": 214,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 2,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+}
+],
+"x": 1,
+"y": 0
+},
+{
+"id": 3,
+"name": "EV003",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+41,
+"FarmersMarketLightMapSized",
+0,
+0,
+9999,
+9999,
+100,
+100,
+0,
+0
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+42,
+"NarrowsLightMapSized",
+0,
+0,
+9999,
+9999,
+100,
+100,
+0,
+0
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+43,
+"NestLightmapSized",
+0,
+0,
+9999,
+9999,
+100,
+100,
+0,
+0
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+44,
+"StoreroomLightMapSIzed",
+0,
+0,
+9999,
+9999,
+100,
+100,
+0,
+0
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+45,
+"TownSquareLightMapSized",
+0,
+0,
+9999,
+9999,
+100,
+100,
+0,
+0
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+41
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+42
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+43
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+44
+]
+},
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+45
+]
+},
+{
+"code": 214,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 0,
+"y": 1
+}
+]
+}

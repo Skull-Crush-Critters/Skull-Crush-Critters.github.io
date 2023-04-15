@@ -1,0 +1,7230 @@
+{
+"autoplayBgm": false,
+"autoplayBgs": true,
+"battleback1Name": "",
+"battleback2Name": "",
+"bgm": {
+"name": "",
+"pan": 0,
+"pitch": 100,
+"volume": 90
+},
+"bgs": {
+"name": "",
+"pan": 0,
+"pitch": 60,
+"volume": 5
+},
+"disableDashing": false,
+"displayName": "",
+"encounterList": [],
+"encounterStep": 30,
+"height": 13,
+"note": "",
+"parallaxLoopX": false,
+"parallaxLoopY": false,
+"parallaxName": "",
+"parallaxShow": true,
+"parallaxSx": 0,
+"parallaxSy": 0,
+"scrollType": 0,
+"specifyBattleback": false,
+"tilesetId": 1,
+"width": 17,
+"data": [
+6656,
+6656,
+6656,
+6656,
+6660,
+6684,
+6684,
+6684,
+6684,
+6684,
+6684,
+6684,
+6684,
+6684,
+6684,
+6684,
+6664,
+6656,
+6656,
+6656,
+6656,
+6680,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+6696,
+6660,
+6684,
+6684,
+6684,
+6694,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8151,
+6680,
+8146,
+8146,
+8146,
+8150,
+4098,
+4084,
+4084,
+4084,
+4084,
+4084,
+4084,
+4084,
+4084,
+4084,
+4100,
+8157,
+6680,
+8144,
+8144,
+8144,
+8148,
+4104,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4102,
+7803,
+6680,
+8144,
+8144,
+8144,
+8148,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+8146,
+8150,
+8147,
+8146,
+8146,
+7515,
+6680,
+8144,
+8144,
+8144,
+8148,
+8144,
+8144,
+8144,
+8144,
+8144,
+8144,
+8144,
+8148,
+8145,
+8144,
+8144,
+6690,
+6680,
+8144,
+8144,
+8144,
+8148,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8152,
+8156,
+8145,
+8144,
+8144,
+6672,
+6680,
+8152,
+8152,
+8152,
+8156,
+4098,
+4084,
+4084,
+4084,
+4084,
+4084,
+4084,
+4100,
+8153,
+8152,
+8152,
+6672,
+6680,
+4098,
+4084,
+4084,
+4084,
+4065,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4066,
+4084,
+4084,
+4100,
+6672,
+6680,
+4080,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4064,
+4088,
+6672,
+6680,
+4104,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4092,
+4102,
+6672,
+6658,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6676,
+6657,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3522,
+3508,
+3508,
+3508,
+3508,
+3508,
+3508,
+3508,
+3508,
+3508,
+3524,
+0,
+0,
+0,
+0,
+0,
+0,
+3504,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3490,
+3508,
+0,
+0,
+0,
+0,
+0,
+3528,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3496,
+3488,
+3492,
+3516,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3504,
+3488,
+3512,
+0,
+0,
+0,
+0,
+0,
+0,
+3522,
+3508,
+3508,
+3508,
+3508,
+3508,
+3508,
+3508,
+3489,
+3488,
+3512,
+0,
+0,
+0,
+0,
+0,
+0,
+3504,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3512,
+0,
+0,
+3522,
+3508,
+3508,
+3508,
+3489,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3512,
+0,
+0,
+3504,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3488,
+3512,
+0,
+0,
+3528,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3516,
+3526,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+98,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+749,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+757,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+81,
+82,
+83,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+257,
+257,
+0,
+257,
+259,
+0,
+0,
+257,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+90,
+0,
+0,
+90,
+0,
+0,
+90,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+150,
+151,
+98,
+0,
+118,
+119,
+0,
+0,
+98,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+158,
+159,
+0,
+199,
+126,
+127,
+207,
+0,
+748,
+751,
+749,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+767,
+757,
+0,
+0,
+0,
+264,
+0,
+0,
+45,
+46,
+45,
+46,
+45,
+46,
+45,
+46,
+47,
+0,
+0,
+0,
+0,
+0,
+268,
+269,
+0,
+116,
+117,
+0,
+150,
+151,
+0,
+134,
+135,
+73,
+74,
+75,
+0,
+0,
+0,
+0,
+0,
+0,
+124,
+125,
+0,
+158,
+159,
+0,
+142,
+143,
+81,
+82,
+83,
+0,
+0,
+217,
+218,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+81,
+82,
+83,
+0,
+0,
+225,
+226,
+0,
+31,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+748,
+751,
+749,
+0,
+0,
+0,
+0,
+0,
+0,
+174,
+175,
+0,
+174,
+175,
+0,
+174,
+175,
+764,
+759,
+765,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+756,
+767,
+757,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+12,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+10,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+10,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+14,
+0,
+0,
+0,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"events": [
+null,
+{
+"id": 1,
+"name": "EV001",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+6,
+-1,
+6
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+0,
+65,
+0
+]
+},
+{
+"code": 111,
+"indent": 2,
+"parameters": [
+0,
+137,
+1
+]
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 3,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"return the key to Jay! Although... we could"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"fly by the Nest? Sly did mention there was"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"activity there last night."
+]
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 3,
+"parameters": [
+0,
+137,
+0
+]
+},
+{
+"code": 250,
+"indent": 4,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 4,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"return the key to Jay!"
+]
+},
+{
+"code": 0,
+"indent": 4,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 201,
+"indent": 1,
+"parameters": [
+0,
+5,
+17,
+3,
+2,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+5,
+17,
+3,
+2,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 16,
+"y": 5
+},
+{
+"id": 2,
+"name": "EV002",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+6,
+-1,
+6
+]
+},
+{
+"code": 201,
+"indent": 1,
+"parameters": [
+0,
+5,
+18,
+3,
+2,
+0
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+0,
+65,
+0
+]
+},
+{
+"code": 111,
+"indent": 2,
+"parameters": [
+0,
+137,
+1
+]
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 3,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"return the key to Jay! Although... we could"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"fly by the Nest? Sly did mention there was"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"activity there last night."
+]
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 3,
+"parameters": [
+0,
+137,
+0
+]
+},
+{
+"code": 250,
+"indent": 4,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 4,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 4,
+"parameters": [
+"return the key to Jay! "
+]
+},
+{
+"code": 0,
+"indent": 4,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 123,
+"indent": 2,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 1,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 201,
+"indent": 0,
+"parameters": [
+0,
+5,
+18,
+3,
+2,
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 16,
+"y": 4
+},
+{
+"id": 3,
+"name": "EV003",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 265,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Who leaves half a jar of Jay's jams "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"unfinished?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I wonder why it's tipped over on"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"the floor like that."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+63,
+63,
+0
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 1,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": false
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"tileId": 265,
+"characterName": "",
+"characterIndex": 0,
+"direction": 2,
+"pattern": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 11
+},
+{
+"id": 4,
+"name": "EV004",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Is that a hook?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>What could Jay have been hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"from the wall..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+62,
+62,
+0
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 64,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>An open window...?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>I wonder if the cool air is Jay's"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"secret to keeping his jams and jellies"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"so fresh."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Wait, take a closer peep Kiwi!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The window isn't open, it's..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>SMASHED!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Seems to me it might be a beak in..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>A beak in?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Boss, don't you mean BREAK in? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I shoulda tried a sample, okay?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 80,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I didn't have time to even peck my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"breakfast. I flew outta my office the"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"moment I heard the streets beckoning me..."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+64,
+64,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+66,
+66,
+0
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 65,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+1
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 66,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The hook on the wall with some hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"wire... maybe I should check the murder"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"board to see if I can piece this together!"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 2,
+"y": 9
+},
+{
+"id": 5,
+"name": "EV005",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 64,
+"switch1Valid": true,
+"switch2Id": 63,
+"switch2Valid": true,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 111,
+"indent": 0,
+"parameters": [
+0,
+66,
+0
+]
+},
+{
+"code": 111,
+"indent": 1,
+"parameters": [
+0,
+137,
+1
+]
+},
+{
+"code": 250,
+"indent": 2,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 2,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"return the key to Jay! Although... we could"
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"fly by the Nest? Sly did mention there was"
+]
+},
+{
+"code": 401,
+"indent": 2,
+"parameters": [
+"activity there last night."
+]
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 111,
+"indent": 2,
+"parameters": [
+0,
+137,
+0
+]
+},
+{
+"code": 250,
+"indent": 3,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 3,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"\\n<Kiwi>If we're all done, we should probably"
+]
+},
+{
+"code": 401,
+"indent": 3,
+"parameters": [
+"return the key to Jay! "
+]
+},
+{
+"code": 0,
+"indent": 3,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 2,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 411,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 412,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+}
+],
+"x": 2,
+"y": 1
+},
+{
+"id": 6,
+"name": "EV006",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 17,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 17,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>What's this? ...A bucket of nothing?"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 11,
+"y": 4
+},
+{
+"id": 7,
+"name": "Lightmap",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 235,
+"indent": 0,
+"parameters": [
+100
+]
+},
+{
+"code": 231,
+"indent": 0,
+"parameters": [
+100,
+"StoreroomLightMapSIzed",
+0,
+0,
+0,
+0,
+100,
+100,
+255,
+0
+]
+},
+{
+"code": 356,
+"indent": 0,
+"parameters": [
+"BindPictureToMap 100 above_characters"
+]
+},
+{
+"code": 214,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 2,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+}
+],
+"x": 0,
+"y": 0
+},
+{
+"id": 8,
+"name": "EV008",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>All this jam is quite tempting..."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 5,
+"y": 11
+},
+{
+"id": 9,
+"name": "EV009",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 18,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 18,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I've never been one for sweets"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"but this jam does look good..."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 7,
+"y": 10
+},
+{
+"id": 10,
+"name": "EV010",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Hmm... Why has this been left open"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"I wonder?"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 12,
+"y": 8
+},
+{
+"id": 11,
+"name": "EV011",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Interesting... the inside of this"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"cupboard is in such disarray..."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 11,
+"y": 8
+},
+{
+"id": 12,
+"name": "EV012",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>What do we have here...? "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Literally nothing..."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 12,
+"y": 3
+},
+{
+"id": 13,
+"name": "EV013",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Why are so many of these... empty?"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 5,
+"y": 4
+},
+{
+"id": 14,
+"name": "EV014",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+3,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Jay sure has a lot of jars. "
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 6,
+"y": 4
+},
+{
+"id": 15,
+"name": "EV015",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>What have we got here...?"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 5,
+"y": 8
+},
+{
+"id": 16,
+"name": "EV016",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Hmm I'm not seeing anything of"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"note in these shelves..."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 6,
+"y": 8
+},
+{
+"id": 17,
+"name": "EV017",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Jay WAS offering free samples..."
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"a nibble couldn't hurt, right?"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 6,
+"y": 11
+},
+{
+"id": 18,
+"name": "EV018",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Is that a hook?"
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>What could Jay have been hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"from the wall..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "cluefound",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The Murder Board has been updated!"
+]
+},
+{
+"code": 122,
+"indent": 0,
+"parameters": [
+11,
+11,
+1,
+0,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+62,
+62,
+0
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "B",
+"selfSwitchValid": true,
+"switch1Id": 64,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>An open window...?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>I wonder if the cool air is Jay's"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"secret to keeping his jams and jellies"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"so fresh."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Wait, take a closer peep Kiwi!"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The window isn't open, it's..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 110,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>SMASHED!"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Seems to me it might be a beak in..."
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+4,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>A beak in?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "kiwi_voice",
+"volume": 90,
+"pitch": 90,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"updated_kiwihead_sheet",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Kiwi>Boss, don't you mean BREAK in? "
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 90,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I shoulda tried a sample, okay?"
+]
+},
+{
+"code": 250,
+"indent": 0,
+"parameters": [
+{
+"name": "crowley_voice",
+"volume": 80,
+"pitch": 100,
+"pan": 0
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>I didn't have time to even peck my"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"breakfast. I flew outta my office the"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"moment I heard the streets beckoning me..."
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+64,
+64,
+1
+]
+},
+{
+"code": 121,
+"indent": 0,
+"parameters": [
+66,
+66,
+0
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"B",
+1
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 4,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 65,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"",
+0,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"Look closer?"
+]
+},
+{
+"code": 102,
+"indent": 0,
+"parameters": [
+[
+"Yes",
+"No"
+],
+-1,
+0,
+2,
+0
+]
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+0,
+"Yes"
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+65,
+65,
+1
+]
+},
+{
+"code": 121,
+"indent": 1,
+"parameters": [
+64,
+64,
+0
+]
+},
+{
+"code": 123,
+"indent": 1,
+"parameters": [
+"B",
+0
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 402,
+"indent": 0,
+"parameters": [
+1,
+"No"
+]
+},
+{
+"code": 0,
+"indent": 1,
+"parameters": []
+},
+{
+"code": 404,
+"indent": 0,
+"parameters": []
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 66,
+"switch1Valid": true,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+6,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"The hook on the wall with some hanging"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"wire... maybe I should check the murder"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"board to see if I can piece this together!"
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 3,
+"y": 9
+},
+{
+"id": 19,
+"name": "EV019",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>So Jay doesn't just sell jams and"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"jellies... false advertising if you ask me."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 8,
+"y": 8
+},
+{
+"id": 20,
+"name": "EV020",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+1,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Mmm how I love... "
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"preserved fruit paste..."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 12,
+"y": 11
+},
+{
+"id": 21,
+"name": "EV021",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Jars... jars... and more... jars."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 8
+},
+{
+"id": 22,
+"name": "EV022",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Baking supplies... suspicious...?"
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 9,
+"y": 4
+},
+{
+"id": 23,
+"name": "EV023",
+"note": "",
+"pages": [
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": false,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 205,
+"indent": 0,
+"parameters": [
+-1,
+{
+"list": [
+{
+"code": 19,
+"indent": null
+},
+{
+"code": 0
+}
+],
+"repeat": false,
+"skippable": false,
+"wait": true
+}
+]
+},
+{
+"code": 505,
+"indent": 0,
+"parameters": [
+{
+"code": 19,
+"indent": null
+}
+]
+},
+{
+"code": 101,
+"indent": 0,
+"parameters": [
+"crowleyfaces",
+2,
+0,
+2
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"\\n<Crowley>Quite the operation Jay's got"
+]
+},
+{
+"code": 401,
+"indent": 0,
+"parameters": [
+"going on here..."
+]
+},
+{
+"code": 123,
+"indent": 0,
+"parameters": [
+"A",
+0
+]
+},
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": true,
+"trigger": 0,
+"walkAnime": true
+},
+{
+"conditions": {
+"actorId": 1,
+"actorValid": false,
+"itemId": 1,
+"itemValid": false,
+"selfSwitchCh": "A",
+"selfSwitchValid": true,
+"switch1Id": 1,
+"switch1Valid": false,
+"switch2Id": 1,
+"switch2Valid": false,
+"variableId": 1,
+"variableValid": false,
+"variableValue": 0
+},
+"directionFix": false,
+"image": {
+"characterIndex": 0,
+"characterName": "",
+"direction": 2,
+"pattern": 0,
+"tileId": 0
+},
+"list": [
+{
+"code": 0,
+"indent": 0,
+"parameters": []
+}
+],
+"moveFrequency": 3,
+"moveRoute": {
+"list": [
+{
+"code": 0,
+"parameters": []
+}
+],
+"repeat": true,
+"skippable": false,
+"wait": false
+},
+"moveSpeed": 3,
+"moveType": 0,
+"priorityType": 0,
+"stepAnime": false,
+"through": false,
+"trigger": 0,
+"walkAnime": true
+}
+],
+"x": 10,
+"y": 4
+},
+null
+]
+}
