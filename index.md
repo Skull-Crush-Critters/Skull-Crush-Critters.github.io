@@ -26,3 +26,5 @@ For TA marking only
 [beta web](Beta_v2/index.html) 
 
 [beta download](Beta_v2.zip)
+
+[tech demo web](tech_demo_v2/index.html) 
